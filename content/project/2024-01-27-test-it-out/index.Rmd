@@ -1,0 +1,39 @@
+---
+title: Test it out
+author: Brad Stringer
+date: '2024-01-27'
+slug: []
+categories: []
+tags: []
+subtitle: ''
+excerpt: ''
+draft: no
+series: ~
+layout: single
+---
+
+
+Hello!
+
+```{r, include=FALSE}
+library(tidyverse)
+library(showtext)
+
+font_add_google("Bitter", "dosis", regular.wt = 400, bold.wt = 700)
+showtext_auto()
+showtext_opts(dpi = 250)
+
+str(iris)
+iris <- iris
+```
+
+Look at this plot...
+
+```{r}
+ggplot(iris, aes(x = Sepal.Width, y = Sepal.Length)) +
+  geom_point(aes(colour = Species)) +
+  labs(title = "Flōwers") +
+  theme(text = element_text(family = "dosis"))
+  
+```
+
