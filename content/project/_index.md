@@ -1,6 +1,6 @@
 ---
 title: Personal Projects
-description: "These are some small samples of personal projects I have done. R code is included for most, and is also on my github. <br>Most of professional work is confidential and can't be shared."
+description: "These are some small samples of quick personal projects I have done. R code is included for most, and is also on my github. <br>Most of professional work is confidential and can't be shared."
 author: ""
 show_post_thumbnail: true
 show_author_byline: true
