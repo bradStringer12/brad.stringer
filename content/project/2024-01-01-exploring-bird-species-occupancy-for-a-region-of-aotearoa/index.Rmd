@@ -14,6 +14,8 @@ tags:
   - STAN
 ---
 
+![](images/birds.png){width=300px style="float: right"}
+
 My full Master's thesis report is available to read [here](https://app.box.com/s/tmqoikp3g1nkivrngbphqj908qgoyrbv).
 
 The purpose of this project was to explore the viability of using publicly available, 'citizen science' data to fit occupancy models. I wanted to provide details and advice for researcher looking to efficiently perform a similar analysis but over a wider area and more species.
