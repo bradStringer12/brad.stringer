@@ -88,7 +88,7 @@ enableEmoji = true
   [[params.social]]
       icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "www.linkedin.com/in/brad-stringer-b978412b0"
+      url       = "https://www.linkedin.com/in/brad-stringer-b978412b0"
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
